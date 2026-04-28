@@ -54,3 +54,13 @@
 删除文件：rm 文件名.后缀
 
 清除当前指令页面：clear
+
+***
+github的分支名现在改成main了，，不过国内汉化版的gitee还是marster
+
+更新文件后
+1. 把所有修改的文件加入暂存区：git add .
+
+2. 提交修改（引号里写你改了啥，随便写）：git commit -m "更新了xxx功能/修改了xxx文件"
+
+3. 推送到 GitHub（第一次用过 -u 之后，直接 push 就行）：git push
