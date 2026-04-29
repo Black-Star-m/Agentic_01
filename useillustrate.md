@@ -12,6 +12,8 @@
 提交到本地仓库：git commit -m "这里写提交说明"
 
 追加提交（不新增commit，修改上一次提交）:git commit --amend
+
+提交到远程仓库github ：git push
 ***
 ## 拉取 & 推送
 关联远程仓库：git remote add origin 仓库地址
