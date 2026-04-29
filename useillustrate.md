@@ -64,3 +64,5 @@ github的分支名现在改成main了，，不过国内汉化版的gitee还是ma
 2. 提交修改（引号里写你改了啥，随便写）：git commit -m "更新了xxx功能/修改了xxx文件"
 
 3. 推送到 GitHub（第一次用过 -u 之后，直接 push 就行）：git push
+
+4. 将github上的更改，比如新分支，拉到本地：git pull origin master
